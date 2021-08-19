@@ -1,0 +1,62 @@
+body {
+    
+    font-family: 'Architects Daughter', cursive;
+    background-image:url(./imgs/01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: 0.4em 0.4em 0.1em black;
+
+
+}
+
+.descricao{ 
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 0.1em 0.1em 0.1em black;
+
+}
+.descricao2{
+    text-align: center;
+    color: black;
+    text-shadow: 0.1em 0.1em 0.1em black;
+    font-weight:bold;
+
+}
+
+p{  
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    text-shadow: 0.1em 0.1em 0.1em black;
+}
+
+h5{
+    font-size: 17px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+h5>a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+h5 :hover{
+    font-size: 20px
+}
+ul>li{
+    text-align: center;
+    color: white;
+    text-shadow: 0.1em 0.1em 0.1em black;
+
+}
+
+.options{
+    text-align: center;
+    margin: 10px auto;
+}
+
